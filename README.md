@@ -11,7 +11,7 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure Sentinel (SIEM) and Automation          | <a href="https://github.com/MalachiElisnord/Siem-Project/tree/main">SIEM Project</a>|
+| Azure Sentinel (SIEM) and Automation          | <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure-Sentinel-Honeypot</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -60,5 +60,5 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 </div>
 
 ## Projects
-- <a href="https://github.com/MalachiElisnord/Siem-Project/tree/main">SIEM Project</a>
+- <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">SIEM Project</a>
 - SOC Automation Project
