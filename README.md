@@ -60,5 +60,5 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 </div>
 
 ## Projects
-- <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">SIEM Project</a>
+- <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure Sentinel Honeypot: Global RDP Attack Detection</a>
 - SOC Automation Project
