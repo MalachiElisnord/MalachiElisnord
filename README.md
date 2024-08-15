@@ -31,6 +31,7 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory_Management-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    Note: SentinelOne and Shuffle
 </div>
 
 ### SIEM
