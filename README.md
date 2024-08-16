@@ -12,7 +12,7 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure Sentinel (SIEM) and Automation          | <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure-Sentinel-Honeypot</a>|
-| Security Automation with Shuffle SOAR | In Progress... |
+| Security Automation with Shuffle SOAR | <a href="https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project">Mimikatz-Rule-Detection-Project</a> |
 | Malware Analysis | TBC |
 | Vulnerability Assessment and Penetration Testing (VAPT)      | TBC |
 | Firewall and IDS/IPS Configuration                  | TBC |
