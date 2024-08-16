@@ -31,13 +31,14 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory_Management-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    Note: SentinelOne and Shuffle
+    <img src="https://img.shields.io/badge/-SentinelOne-6A1B9A?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-0078D4?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-1DB954?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
@@ -55,11 +56,11 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-2C8EBB?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cloud%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CySA%2B-2C8EBB?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloud%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure Sentinel Honeypot: Global RDP Attack Detection</a>
-- SOC Automation Project
+- <a href="https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project">Mimikatz Rule Detection Project</a>
