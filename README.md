@@ -1,5 +1,5 @@
 # Hello, I'm Malachi
-<a href="www.linkedin.com/in/malachielisnord/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/malachielisnord/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 What can I bring to your team? I am a dedicated cybersecurity enthusiast with a robust skill set encompassing network security, threat analysis, and ethical hacking. Currently pursuing a degree in Cybersecurity at Wentworth Institute of Technology, I am well-prepared to protect digital assets and contribute to the security of your organization.
 
