@@ -13,6 +13,7 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 |-----------------------------------------------|----------------------------|
 | Azure Sentinel (SIEM) and Automation          | <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure-Sentinel-Honeypot</a>|
 | Detection Rule Creation and Automated Response | <a href="https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project">Mimikatz-Rule-Detection-Project</a> |
+| Active Directory with Splunk (SIEM) Integration with Attack Detection | In progress... |
 | Malware Analysis | TBC |
 | Vulnerability Assessment and Penetration Testing (VAPT)      | TBC |
 | Firewall and IDS/IPS Configuration                  | TBC |
