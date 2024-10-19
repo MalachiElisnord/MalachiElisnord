@@ -67,3 +67,5 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 ## Projects
 - <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure Sentinel Honeypot: Global RDP Attack Detection</a>
 - <a href="https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project">Mimikatz Rule Detection Project</a>
+- <a href="https://github.com/MalachiElisnord/Splunk-ATTACK-Integration">AD Splunk and Mitre ATT&CK Intergration Project</a>
+
