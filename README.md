@@ -47,6 +47,7 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
 ### Scripting and Automation
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux_OS-FCC624?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-XSOAR-FF4500?&style=for-the-badge&logo=Palo_Alto_Networks&logoColor=white" />
 </div>
