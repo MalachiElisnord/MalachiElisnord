@@ -1,24 +1,25 @@
-# Hello, I'm Malachi👋
-<a href="https://www.linkedin.com/in/malachielisnord/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# <a href="https://www.linkedin.com/in/Malachielisnord/">Malachi Elisnord</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-What can I bring to your team? I am a dedicated cybersecurity enthusiast with a robust skill set encompassing network security, threat analysis, and ethical hacking. Currently pursuing a degree in Cybersecurity at Wentworth Institute of Technology, I am well-prepared to protect digital assets and contribute to the security of your organization.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## Objective
 
-My journey in cybersecurity has led me to develop a passion for safeguarding digital environments. I am eager to transition into a professional role, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## ⚠️ Vulnerability Management Projects
 
-## Skills
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Azure Sentinel (SIEM) and Automation          | <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure-Sentinel-Honeypot</a>|
-| Detection Rule Creation and Automated Response | <a href="https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project">Mimikatz-Rule-Detection-Project</a> |
-| Active Directory with Splunk (SIEM) Integration for Attack Detection | <a href="https://github.com/MalachiElisnord/Splunk-ATTACK-Integration">AD-Splunk-ATT&CK-Intergration</a> |
-| DNS Filtering and Ad-Blocking with Raspberry Pi | In progress... |
-| Data Loss Prevention (DLP) Implementation | TBC |
-| Vulnerability Assessment and Penetration Testing (VAPT)      | In progress... |
-| Malware Analysis | TBC |
-| Firewall and IDS/IPS Configuration                  | TBC |
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Detection Rule Creation and Automated Response)](https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project)**
+- **[Active Directory with Splunk (SIEM) Integration for Attack Detection)](https://github.com/MalachiElisnord/Splunk-ATTACK-Integration)**
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
+
+
 
 
 ## Tools
@@ -65,8 +66,11 @@ My journey in cybersecurity has led me to develop a passion for safeguarding dig
     <img src="https://img.shields.io/badge/-Cloud%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/tree/main">Azure Sentinel Honeypot: Global RDP Attack Detection</a>
-- <a href="https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project">Mimikatz Rule Detection Project</a>
-- <a href="https://github.com/MalachiElisnord/Splunk-ATTACK-Integration">AD Splunk and Mitre ATT&CK Intergration Project</a>
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/Malachielisnord
 
