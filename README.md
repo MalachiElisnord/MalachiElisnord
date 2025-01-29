@@ -21,7 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 
-
+<!--
 ## Tools
 
 ### Network
@@ -65,8 +65,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
     <img src="https://img.shields.io/badge/-CySA%2B-2C8EBB?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cloud%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+-->
 
 <hr/>
+
 
 ## 🤳 Connect With Me
 
