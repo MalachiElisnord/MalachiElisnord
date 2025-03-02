@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **##[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **##[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MalachiElisnord/threat-hunting-scenario-tor/tree/main)**
 - **[Detection Rule Creation and Automated Response)](https://github.com/MalachiElisnord/Mimikatz-Rule-Detection-Project)**
 - **[Active Directory with Splunk (SIEM) Integration for Attack Detection)](https://github.com/MalachiElisnord/Splunk-ATTACK-Integration)**
 
