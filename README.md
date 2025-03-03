@@ -15,6 +15,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Active Directory with Splunk (SIEM) Integration for Attack Detection](https://github.com/MalachiElisnord/Splunk-ATTACK-Integration)**
 - **[Honeypot Security: Tracking Global RDP Attacks with Azure Sentinel](https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot)**
 
+## 🖥️ General Computer Science Projects
+
+- **[Analyzing the Changing Computer Science Job Market Over Time](https://github.com/MalachiElisnord/Data-Stuctures-Individual-Project)**  
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
